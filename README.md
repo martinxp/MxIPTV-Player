@@ -12,6 +12,8 @@ Languages: English, Czech, Slovak, Polski, Magyar, Deutsch, Espanol, Italiano, R
 
 Autoupdate support
 
+App does not require any permissions
+
 The application does not contain any playlists or other content.
 
 Privacy Policy : https://mxpl.eu/privacy.php?lang=en
