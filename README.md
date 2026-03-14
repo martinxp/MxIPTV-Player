@@ -10,6 +10,8 @@ The playlist is sent to the application using the form on the website https://mx
 
 Languages: English, Czech, Slovak, Polski, Magyar, Deutsch, Espanol, Italiano, Russ, Francais, Arab..
 
+Autoupdate support
+
 The application does not contain any playlists or other content.
 
 Privacy Policy : https://mxpl.eu/privacy.php?lang=en
