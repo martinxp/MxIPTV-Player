@@ -4,7 +4,7 @@ For TVs and boxes only, touch UI is not supported
 
 The application supports xtream codes and m3u playlists
 
-Catchup supported , Epg Supported , App is fast and stable.
+Catchup supported , Epg Supported , VOD supported. App is fast and stable.
 
 The playlist is sent to the application using the form on the website https://mxpl.eu/
 
